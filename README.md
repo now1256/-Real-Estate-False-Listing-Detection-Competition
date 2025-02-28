@@ -21,8 +21,8 @@
 3. 모델링
 ---
 ## 데이터셋
-train.csv [출처:Dacon]
-test.csv [출처:Dacon]
+<li>train.csv [출처:Dacon]
+<li>test.csv [출처:Dacon]
 
 ---
 ## 성과 
