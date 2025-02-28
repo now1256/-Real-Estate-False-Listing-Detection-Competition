@@ -1,1 +1,2 @@
-# -Real-Estate-False-Listing-Detection-Competition
+# 데이콘 - 부동산 허위매물 분류 해커톤 
+# 955명중 45위 
