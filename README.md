@@ -5,22 +5,29 @@
 ---
 
 ## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Project Setup](#project-setup)
-3. [Data](#data)
-4. [Analysis](#analysis)
-5. [Results](#results)
-6. [Conclusion](#conclusion)
-7. [License](#license)
+![image](https://github.com/user-attachments/assets/10c862f6-32c1-488c-b707-185c46e900f2)
 
 ---
 
 ## Introduction
 
-Provide a detailed description of the project. Explain the problem you're trying to solve or the analysis you're performing. Describe any key objectives or goals of the project.
+부동산 매물관련 정보가 포함된 데이터를 활용하여 허위매물을 분류하는 AI 알고리즘을 개발
+평가 방법 : Macro F1 Score
 
 ---
-## Project Setup
+## 개요
+1. 통게분석 및 EDA
+2. 데이터 전처리 및 결측치 처리
+3. 모델링
+---
+## 데이터셋
+train.csv [출처:Dacon]
+test.csv [출처:Dacon]
+
+---
+## 성과 
+45/955 (5%) , private score 0.87429 
+
+
 
 
