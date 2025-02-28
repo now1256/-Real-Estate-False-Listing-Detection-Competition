@@ -12,7 +12,7 @@
 ## Introduction
 
 부동산 매물관련 정보가 포함된 데이터를 활용하여 허위매물을 분류하는 AI 알고리즘을 개발
-평가 방법 : Macro F1 Score
+<br>평가 방법 : Macro F1 Score
 
 ---
 ## 개요
